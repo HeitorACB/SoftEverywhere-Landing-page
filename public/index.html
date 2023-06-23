@@ -10,7 +10,22 @@
     />
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-    <link href="https://fonts.googleapis.com/css2?family=Poppins&display=swap" rel="stylesheet" />
+
+    <!-- Preload da fonte para começar a carregar o mais rápido possível -->
+    <link
+      rel="preload"
+      href="https://fonts.googleapis.com/css2?family=Poppins&display=swap"
+      as="style"
+    />
+
+    <!-- Polyfill para garantir o funcionamento do preload em todos os navegadores -->
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Poppins&display=swap"
+      media="print"
+      onload="this.media='all'"
+    />
+
     <title>Landing page Soft Everywhere</title>
   </head>
   <body>
