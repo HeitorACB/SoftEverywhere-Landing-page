@@ -27,7 +27,7 @@ const NavBar = () => {
             </ul>
             <div className='p-6 lg:hidden'>
               <a
-                className=' bg-corDoBotao pt-4 pb-4 ps-6 pe-6 rounded-full text-white hover:bg-corDoBotaoHover transition duration-300'
+                className=' bg-BluePrimary pt-4 pb-4 ps-6 pe-6 rounded-full text-white hover:bg-BluePrimaryHover transition duration-300'
                 href='#'
               >
                 Try it Now
@@ -37,7 +37,7 @@ const NavBar = () => {
         </div>
         <div className='p-6 lg:flex lg:flex-row lg:ml-auto hidden'>
           <a
-            className=' bg-corDoBotao pt-4 pb-4 ps-6 pe-6 rounded-full text-white hover:bg-corDoBotaoHover transition duration-300'
+            className=' bg-BluePrimary pt-4 pb-4 ps-6 pe-6 rounded-full text-white hover:bg-BluePrimaryHover transition duration-300'
             href='#'
           >
             Try it Now

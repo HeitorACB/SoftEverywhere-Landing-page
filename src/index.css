@@ -11,7 +11,6 @@
   max-width: 1200px;
   margin: 0 auto;
 }
-
-.none {
-  display: none;
+.shadowImages {
+  box-shadow: 0px 32px 64px -12px rgba(16, 24, 40, 0.616);
 }

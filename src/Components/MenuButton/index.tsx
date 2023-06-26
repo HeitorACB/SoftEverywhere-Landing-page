@@ -20,12 +20,12 @@ const MenuButton = () => {
   return (
     <button
       type='button'
-      className='flex justify-end gap-2 container lg:hidden'
+      className='flex justify-end gap-2 container lg:hidden items-center'
       id='MenuButton'
       onClick={handleClick}
     >
       <img src='Images/Logo-menuButton.svg' alt='menu-Hamburguer' />
-      <p>Menu</p>
+      <p className='text-lg'>Menu</p>
     </button>
   )
 }
