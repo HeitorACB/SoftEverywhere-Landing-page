@@ -8,7 +8,7 @@ const InputHeader = () => {
           placeholder='Infrara favis.'
         />
       </div>
-      <div className='bg-Bluelight rounded-full ms-5 lg:hidden'>
+      <div className='bg-Bluelight rounded-full ms-1 lg:hidden'>
         <img className='p-6 ' src='Images/arrow-right.svg' alt='' />
       </div>
       <div className='hidden lg:flex bg-Bluelight  rounded-full ms-4'>
