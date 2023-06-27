@@ -6,13 +6,15 @@ export const theme = {
     colors: {
       BluePrimary: '#3461FF',
       BluePrimaryHover: '#1B46E0',
-      Grey:'rgba(0, 0, 0, 0.60)',
+      Bluelight:'#E5EBFF',
+      Gray:'rgba(0, 0, 0, 0.60)',
+      graylight: '#56565613',
     },
     maxWidth: {
       '14ch': '14ch',
       '32ch': '32ch',
       '48ch': '48ch',
-      '56ch': '56ch',
+      '58ch': '58ch',
     },
   },
 };
