@@ -7,6 +7,7 @@ export const theme = {
       BluePrimary: '#3461FF',
       BluePrimaryHover: '#1B46E0',
       Bluelight:'#E5EBFF',
+      BluelightHover:'#D4DEFF',
       Gray:'rgba(0, 0, 0, 0.60)',
       graylight: '#56565613',
     },

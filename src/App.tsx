@@ -1,4 +1,4 @@
-import Header from './Containers/Header'
+import Header from './Containers/Hero'
 import NavBar from './Containers/NavBar'
 
 function App() {

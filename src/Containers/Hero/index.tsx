@@ -1,5 +1,5 @@
-import ImageHeader from '../../Components/ImagesHeader'
-import InputHeader from '../../Components/InputHeader'
+import ImageHeader from '../../Components/ImagesHero'
+import InputHeader from '../../Components/InputHero'
 
 const Header = () => {
   return (
