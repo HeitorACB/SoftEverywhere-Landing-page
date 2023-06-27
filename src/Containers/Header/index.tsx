@@ -19,7 +19,7 @@ const Header = () => {
             took a galley of type and.
           </p>
         </div>
-        <div>
+        <div className='lg:mt-9 mt-5'>
           <InputHeader />
         </div>
       </div>
