@@ -24,7 +24,7 @@ const MenuButton = () => {
       id='MenuButton'
       onClick={handleClick}
     >
-      <img src='Images/Logo-menuButton.svg' alt='menu-Hamburguer' />
+      <img src='Images/NavBar/Logo-menuButton.svg' alt='menu-Hamburguer' />
       <p className='text-lg'>Menu</p>
     </button>
   )

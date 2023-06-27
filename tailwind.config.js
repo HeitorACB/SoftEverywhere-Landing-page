@@ -10,12 +10,15 @@ export const theme = {
       BluelightHover:'#D4DEFF',
       Gray:'rgba(0, 0, 0, 0.60)',
       graylight: '#56565613',
+      FundoSectionLogos: '#FAFAFA',
     },
     maxWidth: {
       '14ch': '14ch',
       '32ch': '32ch',
+      '38ch': '38ch',
       '48ch': '48ch',
       '58ch': '58ch',
+      
     },
   },
 };
