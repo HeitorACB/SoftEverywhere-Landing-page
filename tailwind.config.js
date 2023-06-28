@@ -13,7 +13,7 @@ export const theme = {
       FundoSectionLogos: '#FAFAFA',
     },
     maxWidth: {
-      '14ch': '14ch',
+      '18ch': '18ch',
       '32ch': '32ch',
       '38ch': '38ch',
       '48ch': '48ch',

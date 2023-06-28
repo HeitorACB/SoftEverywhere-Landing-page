@@ -5,7 +5,7 @@ const NavBar = () => {
   return (
     <>
       <div className='lg:flex container lg:justify-between'>
-        <div className='flex flex-row items-center p-5'>
+        <div className='flex flex-row items-center p-5 ps-6'>
           <Logo />
           <MenuButton />
         </div>
