@@ -1,6 +1,6 @@
 const InputHeader = () => {
   return (
-    <div className='max-w-[1200px] mx-auto ps-8 mt-4 flex items-center'>
+    <div className='md:max-w-[1200px] md:mx-auto ps-7 mt-4 flex items-center'>
       <div>
         <input
           className='bg-graylight p-4 pe-0 rounded-full lg:pe-48'

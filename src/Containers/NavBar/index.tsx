@@ -3,7 +3,7 @@ import MenuButton from '../../Components/MenuButton'
 
 const NavBar = () => {
   return (
-    <>
+    <div>
       <div className='lg:flex container lg:justify-between'>
         <div className='flex flex-row items-center p-5 ps-6'>
           <Logo />
@@ -44,7 +44,7 @@ const NavBar = () => {
           </a>
         </div>
       </div>
-    </>
+    </div>
   )
 }
 
