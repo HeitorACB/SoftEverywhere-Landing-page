@@ -2,6 +2,7 @@ import Header from './Containers/Hero'
 import NavBar from './Containers/NavBar'
 import SectionLogos from './Containers/SectionLogos'
 import SectionNumbers from './Containers/SectionNumbers'
+import SectionVuv from './Containers/SectionVuv'
 
 function App() {
   return (
@@ -10,6 +11,7 @@ function App() {
       <Header />
       <SectionLogos />
       <SectionNumbers />
+      <SectionVuv />
     </>
   )
 }

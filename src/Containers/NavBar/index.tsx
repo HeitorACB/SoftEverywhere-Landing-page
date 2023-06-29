@@ -13,7 +13,7 @@ const NavBar = () => {
           <nav className='flex lg:w-full ps-6 flex-col lg:flex-row w-80 bg-white drop-shadow-2xl lg:drop-shadow-none lg:items-center fixed z-10 lg:static'>
             <ul className='lg:flex lg:flex-row '>
               <li className='p-6'>
-                <a href='#'>Bende ajyvåsa.</a>
+                <a href='#VUV'>Bende ajyvåsa.</a>
               </li>
               <li className='p-6'>
                 <a href='#'>Sutesm asonat.</a>

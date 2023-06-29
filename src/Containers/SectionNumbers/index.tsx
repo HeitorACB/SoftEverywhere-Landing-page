@@ -1,8 +1,8 @@
 const SectionNumbers = () => {
   return (
     <>
-      <div className='flex flex-col text-center lg:flex-row-reverse md:mt-32 max-w-[1200px] mx-auto'>
-        <div className='max-w-[340px] mx-auto mb-12 md:max-w-[760px] md:mx-auto md:text-start lg:mt-3'>
+      <div className='flex flex-col text-center lg:flex-row-reverse md:mt-32 max-w-[1200px] mx-auto md:ps-8 lg:gap-32'>
+        <div className='max-w-[340px] mx-auto mb-12 md:max-w-[760px] md:mx-0 md:text-start lg:mt-3'>
           <h2 className='text-4xl mb-3 font-semibold md:flex'>
             Devår <div>tins bide.</div>
           </h2>
@@ -13,7 +13,7 @@ const SectionNumbers = () => {
             Virelig saling. Sys fase kroheten.
           </p>
         </div>
-        <div className='md:flex md:mx-auto md:gap-56 lg:gap-36'>
+        <div className='md:flex md:gap-56 lg:gap-36'>
           <div className='flex flex-col md:text-start'>
             <p className='textNumbers text-BluePrimary'>245%</p>
             <p className='max-w-[16ch] mx-auto mb-12'>More revenues for the brand </p>
