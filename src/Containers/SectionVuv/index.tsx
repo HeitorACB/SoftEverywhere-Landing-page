@@ -1,7 +1,7 @@
 const SectionVuv = () => {
   return (
     <div id='VUV'>
-      <div className='flex flex-col text-center lg:flex-row md:mt-32 max-w-[1200px] lg:mx-auto lg:items-center md:items-start md:gap-20 md:ps-8'>
+      <div className='flex flex-col text-center lg:flex-row md:mt-32 max-w-[1200px] lg:mx-auto lg:items-center md:items-start md:gap-20 md:ps-8 lg:mb-32 mb-16'>
         <div className='max-w-[340px] mx-auto md:mx-0  mb-12 md:max-w-[760px] md:text-start lg:mt-3 md:flex md:flex-col-reverse '>
           <div className='md:flex md:flex-col-reverse'>
             <div>
@@ -21,9 +21,9 @@ const SectionVuv = () => {
             </div>
           </div>
         </div>
-        <div className='md:flex  md:gap-8 lg:gap-36  md:flex-col'>
+        <div className='md:flex  md:gap-8  md:flex-col'>
           <div className='flex flex-col items-center md:items-start  md:text-start md:flex-row '>
-            <div className='me-8'>
+            <div className='md:me-8'>
               <div className='bg-BluePrimary p-7 rounded-3xl w-24 mx-auto md:mx-0'>
                 <img
                   src='Images/SectionVuv/SeperVuv.svg'
@@ -61,9 +61,9 @@ const SectionVuv = () => {
                   className='w-12 h-12 rounded-lg '
                 />
               </div>
-              <div className='me-12'>
+              <div className='md:me-12 '>
                 <h4 className='text-3xl mt-6 mb-4'>Nenat.</h4>
-                <p className='max-w-[28ch] mx-auto mb-12'>
+                <p className='max-w-[28ch] mb-12'>
                   Bebel. Sagirar. Spelig. Geobel. Antifan. Disk. Mononetik. Dörade. Ede. Hypertos.
                   Previs.
                 </p>

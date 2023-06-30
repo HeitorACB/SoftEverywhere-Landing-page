@@ -19,3 +19,12 @@
   font-weight: 600;
   text-transform: capitalize;
 }
+
+.md\:overflow-x-auto::-webkit-scrollbar {
+  display: none;
+}
+
+.md\:overflow-x-auto {
+  -ms-overflow-style: none; /* IE and Edge */
+  scrollbar-width: none; /* Firefox */
+}
