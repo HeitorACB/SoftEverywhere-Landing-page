@@ -18,15 +18,17 @@ const MenuButton = () => {
   }
 
   return (
-    <button
-      type='button'
-      className='flex justify-end gap-2 container lg:hidden items-center'
-      id='MenuButton'
-      onClick={handleClick}
-    >
-      <img src='Images/NavBar/Logo-menuButton.svg' alt='menu-Hamburguer' />
-      <p className='text-lg'>Menu</p>
-    </button>
+    <div className='flex justify-end gap-2 container lg:hidden items-center'>
+      <button
+        type='button'
+        id='MenuButton'
+        onClick={handleClick}
+        className='flex gap-2 items-center'
+      >
+        <img src='Images/NavBar/Logo-menuButton.svg' alt='menu-Hamburguer' />
+        <p className='text-lg'>Menu</p>
+      </button>
+    </div>
   )
 }
 
