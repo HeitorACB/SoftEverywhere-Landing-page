@@ -28,3 +28,21 @@
   -ms-overflow-style: none; /* IE and Edge */
   scrollbar-width: none; /* Firefox */
 }
+
+.cardActive {
+  background-color: #3461ff;
+  color: white;
+  margin-bottom: 100px;
+  margin-left: 10px;
+}
+.cardActive img {
+  border-radius: 100px;
+}
+.overflow-x-auto::-webkit-scrollbar {
+  display: none;
+}
+
+.overflow-x-auto {
+  -ms-overflow-style: none; /* IE and Edge */
+  scrollbar-width: none; /* Firefox */
+}

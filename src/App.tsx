@@ -5,6 +5,8 @@ import SectionNumbers from './Containers/SectionNumbers'
 import SectionPoster from './Containers/SectionPoster'
 import SectionPropagandas from './Containers/SectionPropagandas'
 import SectionVuv from './Containers/SectionVuv'
+import Footer from './Containers/footer'
+import SectionComments from './Containers/sectionComments'
 
 function App() {
   return (
@@ -16,6 +18,8 @@ function App() {
       <SectionVuv />
       <SectionPropagandas />
       <SectionPoster />
+      <SectionComments />
+      <Footer />
     </>
   )
 }

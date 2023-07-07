@@ -1,7 +1,7 @@
 const SectionPoster = () => {
   return (
     <>
-      <div className='mb-96 bg-BluePrimary text-center md:text-start md:ps-8 lg:max-w-[1220px] lg:mx-auto lg:flex lg:items-center lg:pt-[76px] lg:pb-[76px] lg:gap-44'>
+      <div className='mb-24 bg-BluePrimary text-center md:text-start md:ps-8 lg:max-w-[1220px] lg:mx-auto lg:flex lg:items-center lg:pt-[76px] lg:pb-[76px] lg:gap-44'>
         <h4 className='text-[40px] text-white max-w-[14ch] mx-auto pt-24 md:mx-0 md:max-w-[16ch] lg:pt-0'>
           Spetest. Jåspest. Dot. Svenna sitt liv.{' '}
         </h4>
