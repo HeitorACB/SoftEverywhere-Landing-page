@@ -1,3 +1,4 @@
+import Faq from './Containers/Faq/Faq'
 import Header from './Containers/Hero'
 import NavBar from './Containers/NavBar'
 import SectionLogos from './Containers/SectionLogos'
@@ -19,6 +20,7 @@ function App() {
       <SectionPropagandas />
       <SectionPoster />
       <SectionComments />
+      <Faq />
       <Footer />
     </>
   )
