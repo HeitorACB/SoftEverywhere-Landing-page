@@ -18,6 +18,10 @@ export const theme = {
       '38ch': '38ch',
       '48ch': '48ch',
       '58ch': '58ch',
+      '59ch': '59ch',
+      '5ch': '5ch',
+      '53ch': '53ch',
+
       
     },
   },
